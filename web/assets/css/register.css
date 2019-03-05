@@ -191,3 +191,13 @@ input[type="checkbox"]{
     cursor: pointer;
 
 }
+body{
+    background-image: url('https://media.giphy.com/media/26BRGoqbUQvk8nwTC/giphy.gif');
+    background-size: cover;
+
+
+
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
