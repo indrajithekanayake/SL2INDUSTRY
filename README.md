@@ -18,3 +18,37 @@ University can share the academic calendar which include some important dates su
 **3.	Event collaboration:**<br>
 Some annual events organized by different industries can be made visible to universities and students can prepare for such events well in advance. This may be meet ups, Competitions or hackathons or any other matter that can be done in a collaborative way. This may be same the annual events organized by universities and expecting other universities to participate, and industries can sponsor for such important events.
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/UserStory.JPG" alt=""  ></h1>
+
+<h1 align="middle">Analysis of the system</h1>
+<h2>Users of The System</h2>
+
+**1.	Industry Coordinator:** person who is represent particular company. There can be multiple coordinators from each company. 
+
+**2.	University Ambassador:** student who is representing particular university. There is only one ambassador for one university. Ambassadors are selected by google form annually.
+
+**3.	University Student:** undergraduates of universities. They have their own personal accounts with categorizing into universities, but they have very limited privileges to do their own. All student’s actions are going through the ambassador.
+
+**4.	People:** anyone can visit the webpage and see public events and posts but to make an account it’s must to have an email address which is provided by your university.
+
+<h2>Used Technologies</h2>
+
+**1.	Java Server Phase (JSP):** JSP is a technology we use to crete dynamically generated web pages based on HTML, XML.
+
+**2.	Spring MVC/Spring-boot:** we use Spring MVC design pattern to breakdown development process into 3 tires,
+Presentation layer: we create views to create UI
+Logical layer: we use controllers to process
+Database layer: we use models to connect with database and handle data
+By using this we can reduce our workload and make the development process easy and more convenient.
+
+**3.	MySQL:** we use MySQL to store and fetch the data.
+
+**4.	JavaScript/ CSS/ HTML/ Bootstrap/ jQuery:** used for frontend designing
+
+***
+<h1 align="middle">System Design & Development</h1>
+<h2>Basic flow chart</h2>
+
+<h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/flowdiagram.JPG" alt=""  ></h1>
+
+<h2>Use case diagram</h2>
+<h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/usecase.jpg" alt=""  ></h1>
