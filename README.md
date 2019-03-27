@@ -1,4 +1,3 @@
 # SL2INDUSTRY
-<img src="images/logo.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+![GitHub Logo](https://github.com/Semicolon10/SL2INDUSTRY/tree/master/images/logo.png)
+Format: ![Alt Text](url)
