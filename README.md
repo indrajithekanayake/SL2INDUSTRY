@@ -1,4 +1,5 @@
-# If you need complete project with guidence feel free to contact me: https://www.facebook.com/MillionNodes/?modal=admin_todo_tour
+<h1 align="middle"><a href="https://stackexchange.com/users/11078123/indrajith-ekanayake"><img src="https://stackexchange.com/users/flair/11078123.png" width="208" height="58" alt="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a></h1>
+
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/Logo.png" alt="" width="100"   >SL2INDUSTRY</h1>
 We expressed our gratitude to Mr. Chaminda Wijesinghe, our humble lecturer and the module leader of Software Engineering for the internet using java (Term II), for the enormous help and guidance we received in completion of this project and the module. Secondly, we should express our gratitude Mrs. Sulari Fernando, lecturer and the module leader of Software Engineering for the internet using java (Term I), for the proper guidance and the foundation that has been laid.
 
