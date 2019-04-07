@@ -50,7 +50,7 @@ By using this we can reduce our workload and make the development process easy a
 <h2>Use case diagram</h2>
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/usecase.jpg" alt=""  ></h1>
 
-<h2>Screenshots</h2>
+<h2>Screenshots</h2>>
 
 <h1 align="middle">:relaxed::relaxed:Thanks for watching!:relaxed::relaxed:</h1>
 
