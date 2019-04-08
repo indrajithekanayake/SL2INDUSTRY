@@ -47,8 +47,12 @@ By using this we can reduce our workload and make the development process easy a
 
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/flowdiagram.JPG" alt=""  ></h1>
 
+<h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/websitemap.JPG" alt=""  ></h1>
+
 <h2>Use case diagram</h2>
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/usecase.jpg" alt=""  ></h1>
+
+<h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/class.JPG" alt=""  ></h1>
 
 <h2>Screenshots</h2>
 
