@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>SL2INDUSTRY | Sign In</title>
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
+
+    <!-- Main style sheet -->
+    <link href="assets/css/signin.css" rel="stylesheet">
+</head>
+<body >
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600' rel='stylesheet' type='text/css'>
+<link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet">
+
+<div class="testbox">
+    <button style="float: right" onclick="location.href='index.jsp'">X</button>
+    <h1>Sign In</h1>
+
+    <form action="/">
+        <hr>
+        <div class="accounttype">
+            <input type="radio" value="None" id="radioOne" name="account" checked/>
+            <label for="radioOne" class="radio" chec>Professional</label>
+            <input type="radio" value="None" id="radioTwo" name="account" />
+            <label for="radioTwo" class="radio">Student</label>
+        </div>
+        <hr>
+        <label id="icon" for="name"><i class="icon-envelope "></i></label>
+        <input type="text" name="name" id="name" placeholder="Email" required/>
+        <label id="icon" for="name"><i class="icon-shield"></i></label>
+        <input type="password" name="name" id="name" placeholder="Password" required/>
+        <h5 style="margin-left: 20px">Aren't you registered yet? <a href="register.jsp" style="color: red">Register Now</a><br>.</h5>
+        <div class="gender">
+            <input type="checkbox" value="None" id="male" name="gender" checked/>
+            <label for="male" class="checkbox" chec><p>Subscribe our newsletter to stay updated</p></label>
+
+        </div>
+
+        <a href="SL2INDUSTRY/index.jsp" class="button">Sign In</a>
+    </form>
+</div>
+</body>
+</html>
