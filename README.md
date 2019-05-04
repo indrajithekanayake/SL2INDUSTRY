@@ -72,5 +72,5 @@ By using this we can reduce our workload and make the development process easy a
 
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/screencapture-localhost-63342-web-SL2INDUSTRY-index-html-2019-04-07-23_30_49.png" alt=""  ></h1>
 
-<h1 align="middle">:relaxed::relaxed:Thanks for watching!:relaxed::relaxed:</h1>
+<h1 align="middle">:relaxed::relaxed:Thanks for watching!:relaxed::relaxed:</h1>  
 
