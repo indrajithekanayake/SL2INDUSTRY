@@ -10,7 +10,7 @@ Research collaboration is one among that and industries can upload problems to b
 For example, in industry there are professionals who willing to do research but have no time. In universities there are undergraduates who like to do research but don’t have mentorship. We are filling this gap between university and industry using this platform.<br>
 
 **2.	Career collaboration:**<br>
-University can share the academic calendar which include some important dates such as when students will be ready for interns and employment. Industry can share internship/job opportunities they have with particular university. When students will get academic breaks. Such information will be useful for students and industry as well.<br>
+University can share the academic calendar which include some important dates such as when students will be ready for interns and employment. Industry can share internship/job opportunities they have with particular university. When students will get academic breaks. Such information will be useful for students and industry as well.<br>  
 
 **3.	Event collaboration:**<br>
 Some annual events organized by different industries can be made visible to universities and students can prepare for such events well in advance. This may be meet ups, Competitions or hackathons or any other matter that can be done in a collaborative way. This may be same the annual events organized by universities and expecting other universities to participate, and industries can sponsor for such important events.
