@@ -1,8 +1,8 @@
 # If you need complete project with guidence feel free to contact me: https://www.facebook.com/MillionNodes/? modal=admin_todo_tour
-<h1 align="middle"><a href="https://stackexchange.com/users/11078123/indrajith-ekanayake"><img src="https://stackexchange.com/users/flair/11078123.png" width="208" height="58" alt="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a></h1>  
+<h1 align="middle"><a href="https://stackexchange.com/users/11078123/indrajith-ekanayake"><img   src="https://stackexchange.com/users/flair/11078123.png" width="208" height="58" alt="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a></h1>  
 
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/Logo.png" alt="" width="100"   >SL2INDUSTRY</h1>
-
+  
 
 In Sri Lanka university industry collaboration is only limited to industry talks, workshops and guest lectures. That also only limited to urban universities in the island. Strong collaboration among the society is a way to develop this country. So, in this small island why we can’t be getting together and lift the community and country as well.  **SL 2 INDUSTRY** is the platform we built for fill this gap. Through this platform the provided collaboration can be vary as follows,<br>
 **1.	Research collaboration:**<br>
