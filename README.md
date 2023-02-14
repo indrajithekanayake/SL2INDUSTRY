@@ -1,6 +1,3 @@
-# <a href="https://www.linkedin.com/in/indrajith-ekanayake/">Contat me:</a>
-<h1 align="middle"><a href="https://stackexchange.com/users/11078123/indrajith-ekanayake"><img src="https://stackexchange.com/users/flair/11078123.png" width="208" height="58" alt="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Indrajith Ekanayake on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a></h1>
-
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/Logo.png" alt="" width="100"   >SL2INDUSTRY</h1>
   
 
@@ -71,6 +68,3 @@ By using this we can reduce our workload and make the development process easy a
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/screencapture-localhost-8080-SL2INDUSTRY-contact-html-2019-04-07-23_18_41.png" alt=""  ></h1>
 
 <h1 align="middle"><img align="center" src="https://github.com/Semicolon10/SL2INDUSTRY/blob/master/images/screencapture-localhost-63342-web-SL2INDUSTRY-index-html-2019-04-07-23_30_49.png" alt=""  ></h1>
-
-# Give us a star if this usefull :star:  :star:  :star:  
-
